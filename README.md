@@ -1,6 +1,6 @@
 PDF of my poetry <1, 2, ..., R-L+1 Stars Falling from the Sky>.
 
-![시집겉표지 복사.jpg](./img/시집겉표지 복사.jpg)
+![시집겉표지 복사.jpg](./img/pyoji.jpg)
 
 Site: 
 * 부크크 : https://www.bookk.co.kr/book/view/159934
